@@ -59,5 +59,4 @@ export class DatatablePage {
 
     await expect(column).toHaveAttribute('aria-sort', direction);
 }
-
 }
